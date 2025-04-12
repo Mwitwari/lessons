@@ -1,32 +1,46 @@
-# Week One
-We Studied basic python "rules" Eg: 
-  Printing
-  Commenting
-  variables
-  Operators
-  Conditions 
-  Loop
-  Functions etc.
+# Python Learning Progress
+
+This repository documents my weekly progress as I learn Python, covering core concepts, data structures, web scraping, OOP, and more.
 
 
-# week Two
-In the Second week we studied:
-  Dictionaries
-  lists
-  Tuples
-  RegEx
+##  Week One
 
-# Week Three
-In the third week we studied:
-  Web Scraping 
-  Handling API's
+We studied the basic rules and syntax of Python, including:
 
-# Week Four
-In the fourth week we went through:
-  OOP's
-  PACKAGES
-  DATABASES
+- Printing to the console
+- Commenting
+- Variables
+- Operators
+- Conditional Statements (`if`, `else`, `elif`)
+- Loops (`for`, `while`)
+- Functions
 
 
-  
-   
+##  Week Two
+
+We explored fundamental data structures and pattern matching:
+
+- Lists
+- Dictionaries
+- Tuples
+- Regular Expressions (RegEx)
+
+
+## Week Three
+
+We dove into interacting with the web:
+
+- Web Scraping (using libraries like `BeautifulSoup` and `requests`)
+- Handling APIs (making requests and parsing JSON data)
+
+
+##  Week Four
+
+We covered advanced programming concepts and integration:
+
+- Object-Oriented Programming (OOP)
+- Working with Packages
+- Introduction to Databases (CRUD operations, SQL basics)
+
+
+Stay tuned for more updates as we continue the journey! 🚀
